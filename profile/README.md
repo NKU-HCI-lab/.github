@@ -12,3 +12,4 @@ Only specific people in the corresponding team have access to the following repo
 - [Eye-tracking](https://github.com/NKU-HCI-lab/eyetracking)
 - [AI therapist](https://github.com/NKU-HCI-lab/aitherapist)
 - [Teaching evaluations](https://github.com/NKU-HCI-lab/teachevals)
+- [AI reviewer prompt injection](https://github.com/NKU-HCI-lab/AI-reviewer-prompt-injection)
