@@ -13,3 +13,4 @@ Only specific people in the corresponding team have access to the following repo
 - [AI therapist](https://github.com/NKU-HCI-lab/aitherapist)
 - [Teaching evaluations](https://github.com/NKU-HCI-lab/teachevals)
 - [LLM reviewer prompt injection](https://github.com/NKU-HCI-lab/LLM-reviewer-prompt-injection)
+- [LLM fingerprinting](https://github.com/NKU-HCI-lab/llmfingerprinting)
