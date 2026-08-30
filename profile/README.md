@@ -1,4 +1,4 @@
-<a href="https://cprnhl.com/hcilab" taget="_blank"><img src="https://github.com/NKU-HCI-lab/public_hci-lab-resources/blob/main/logo/logo_green.png?raw=true" width="300" alt="HCI Lab logo" /></a>
+<a href="https://cprnhl.com/hcilab" taget="_blank"><img src="./logo/logo_green.png?raw=true" width="300" alt="HCI Lab logo" /></a>
 
 # Welcome to NKU's HCI Lab!
 The Human-Computer Interaction Lab explores innovative ways to understand and enhance interaction between humans and computers. Through interdisciplinary research, we analyze and improve user experiences, interface design, and usability across various domains.
