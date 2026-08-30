@@ -39,9 +39,8 @@ The minimum expected weekly commitment is as follows:
 First, you must **fill out the [member form](https://forms.cloud.microsoft/r/xT9tW1iZkF)**.
 
 After you get accepted into the lab, you:
-1. Should enroll in a research/independent study course (0-3 credits): wait for further instructions from me
-2. Must complete a series of [tasks](./pages/tasks.md)
-3. Will be assigned to a team/project based on your interests
+1. Should enroll in a research course: wait for further instructions from me
+2. Will be assigned to a team/project based on your interests
 
 ---
 ## Contacts
